@@ -8,6 +8,7 @@
 
 <p align="center">
 
+Welcome Welcome Welcome
 Welcome to the **Online Shop** project – our hackathon entry for Phase 1! This repository contains a fully functional e-commerce application built to demonstrate foundational DevOps skills in three key areas:
 
 - **Git & GitHub**
